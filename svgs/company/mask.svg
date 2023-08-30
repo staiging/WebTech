@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="800" viewBox="0 0 1600 800">
+    <defs>
+        <path id="nagffy2wxa" d="M0 0H1600V800H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(0 -50) translate(0 50)">
+                <use fill="#48265C" xlink:href="#nagffy2wxa"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <path fill="#FFF" d="M47.273 24c0 12.852-10.42 23.273-23.273 23.273C11.146 47.273.727 36.853.727 24 .727 11.148 11.147.727 24 .727 36.854.727 47.273 11.147 47.273 24z" transform="translate(-1078 -34) matrix(1 0 0 -1 1078 82)"/>
+                <path stroke="#EA107E" d="M24 .727L24 37.743M40.568 21.175L23.999 37.743 7.432 21.175" transform="translate(-1078 -34) matrix(1 0 0 -1 1078 82)"/>
+            </g>
+        </g>
+    </g>
+</svg>

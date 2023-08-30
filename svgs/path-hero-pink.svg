@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+    <defs>
+        <filter id="f43alde6pa" width="168.6%" height="203.7%" x="-34.3%" y="-51.8%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="225"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#EA107E">
+            <g>
+                <path d="M-763 205.11L-107.564 528 1204.993 -123 1204.993 -774z" filter="url(#f43alde6pa)" transform="translate(0 -50) translate(0 50)"/>
+            </g>
+        </g>
+    </g>
+</svg>
